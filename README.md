@@ -1,4 +1,4 @@
-# sub-site-template
+# SER-RSE subsite on SE research questions on RSE
 
 ## Introduction
 
