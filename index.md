@@ -3,7 +3,7 @@ title: "Software Engineering Research Questions on Research Software Engineering
 layout: single
 ---
 This page lists open research questions for software engineering research on research software engineering.
-The original list has been compiled by [Prof. Dr. Bernhard Rumpe](https://se-rwth.github.io/staff/Bernhard.Rumpe/) (RWTH Aachen, Germany) during the Dagstuhl Seminar.
+The original list has been compiled from research questions provided by software engineering researchers before and during the Dagstuhl Seminar. They have been collected by [Prof. Dr. Bernhard Rumpe](https://se-rwth.github.io/staff/Bernhard.Rumpe/) (RWTH Aachen, Germany).
 
 The list is a living document.
 This means that can contribute to it, for example
